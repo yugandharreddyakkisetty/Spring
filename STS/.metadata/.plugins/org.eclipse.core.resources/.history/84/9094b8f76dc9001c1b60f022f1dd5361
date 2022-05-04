@@ -1,0 +1,10 @@
+<%@ page language = "java" contentType = "text/html"%>
+<html>
+	<head> Insert Title Here </head>
+	<body> Welcome buddy </body>
+	<form action = "addAlian">
+		Aid:<input type = "text" name = "aid"><br>
+		Aname:<input type = "text" name = "aname"><br>
+		<input type = "submit"><br>
+	</form>
+</html>
